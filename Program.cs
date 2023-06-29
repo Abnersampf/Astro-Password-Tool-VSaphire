@@ -1,8 +1,4 @@
-using System;
 using System.Diagnostics;
-using System.Security.Cryptography;
-using System.Text;
-using System.Linq;
 
 namespace APT_Saphire
 {
